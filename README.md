@@ -1,4 +1,4 @@
-I successfully completed the Entrepreneurship-cum-Skill Development Programme (E-SDP) at MSME Balanagar in focused on Building Smart Systems using IoT.
+I successfully completed the Entrepreneurship-cum-Skill Development Programme (E-SDP) at CITD MSME Balanagar in focused on Building Smart Systems using IoT.
 
 This program was a major step in my technical and personal growth.
 It strengthened my foundation in Python and gave me hands-on exposure to Raspberry Pi and IoT system development.
